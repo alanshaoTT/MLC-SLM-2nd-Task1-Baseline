@@ -47,24 +47,24 @@ Time-Constrained minimum-Permutation Word Error Rate (tcpWER) or Character Error
 
 | Language ID | Metric |
 |---|---:|
-| eng_american | 77.39 |
-| eng_australian | 81.50 |
-| eng_british | 67.60 |
-| eng_filipino | 63.36 |
-| eng_indian | 72.12 |
-| french | 83.39 |
-| french_canada | 78.56 |
-| german | 84.23 |
-| italian | 78.16 |
-| japanese | 81.46 |
-| korean | 81.33 |
-| portuguese | 75.64 |
-| portuguese_brazil | 73.02 |
-| russian | 83.84 |
-| spanish | 82.51 |
-| spanish_mexico | 78.81 |
-| tagalog | 81.09 |
-| thai | 83.67 |
-| turkish | 92.97 |
-| urdu | 89.63 |
-| vietnamese | 71.81 |
+| Eng_American | 77.39 |
+| Eng_Australian | 81.50 |
+| Eng_British | 67.60 |
+| Eng_Filipino | 63.36 |
+| Eng_Indian | 72.12 |
+| French | 83.39 |
+| French_Canada | 78.56 |
+| German | 84.23 |
+| Italian | 78.16 |
+| Japanese | 81.46 |
+| Korean | 81.33 |
+| Portuguese | 75.64 |
+| Portuguese_Brazil | 73.02 |
+| Russian | 83.84 |
+| Spanish | 82.51 |
+| Spanish_Mexico | 78.81 |
+| Tagalog | 81.09 |
+| Thai | 83.67 |
+| Turkish | 92.97 |
+| Urdu | 89.63 |
+| Vietnamese | 71.81 |
