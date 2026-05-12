@@ -17,3 +17,20 @@ pip install -e .
 pip install peft
 pip install meeteval
 ```
+
+* Data preparation
+
+Place all downloaded training zip files under the `finetuning-asr` directory.
+
+Extract all training sets:
+
+```bash
+cd finetuning-asr
+mkdir -p ./raw_data
+for f in MLC-SLM_Workshop-Training_Set_*.zip; do
+  unzip "$f" -d ./raw_data
+done
+```
+
+Convert the raw dataset into the training format:
+
