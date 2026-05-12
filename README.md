@@ -68,3 +68,4 @@ Time-Constrained minimum-Permutation Word Error Rate (tcpWER) or Character Error
 | Turkish | 92.97 |
 | Urdu | 89.63 |
 | Vietnamese | 71.81 |
+| Avg. | 79.15 |
