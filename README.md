@@ -43,7 +43,7 @@ bash run.sh --stage 3 --stop-stage 3
 ```
 
 ## Evaluation 
-Time-Constrained minimum-Permutation Word Error Rate (tcpWER) or Character Error Rate (tcpCER) with collar = 5
+We evaluate the baseline on the official development set using tcpWER/tcpCER with collar = 5. Japanese, Korean, and Thai are evaluated using tcpCER, while all other languages use tcpWER. Avg denotes tcpMER averaged across all evaluated languages.
 
 | Language ID | Metric |
 |---|---:|
