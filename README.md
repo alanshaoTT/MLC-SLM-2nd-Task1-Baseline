@@ -7,4 +7,13 @@ For Task 1, we fine-tune the challenge training set on Microsoft's open-source m
 * Clone the repo
 ```
 git clone https://github.com/alanshaoTT/MLC-SLM-2nd-Task1-Baseline
+cd MLC-SLM-2nd-Task1-Baseline
+```
+
+* Install dependency 
+
+```bash
+pip install -e .
+pip install peft
+pip install meeteval
 ```
