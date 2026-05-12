@@ -22,15 +22,10 @@ pip install meeteval
 
 Place all downloaded training zip files under the `finetuning-asr` directory.
 
-Extract all training sets:
-
 ```bash
 cd finetuning-asr
-mkdir -p ./raw_data
-for f in MLC-SLM_Workshop-Training_Set_*.zip; do
-  unzip "$f" -d ./raw_data
-done
+bash run.sh --stage 0 --stop-stage 1
 ```
 
-Convert the raw dataset into the training format:
+This will extract the raw data and convert it into the audio-json training format.
 
